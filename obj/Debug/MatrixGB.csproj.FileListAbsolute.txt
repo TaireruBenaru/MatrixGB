@@ -1,0 +1,10 @@
+C:\Users\Taireru\source\repos\MatrixGB\bin\Debug\MatrixGB.exe.config
+C:\Users\Taireru\source\repos\MatrixGB\bin\Debug\MatrixGB.exe
+C:\Users\Taireru\source\repos\MatrixGB\bin\Debug\MatrixGB.pdb
+C:\Users\Taireru\source\repos\MatrixGB\obj\Debug\MatrixGB.csprojAssemblyReference.cache
+C:\Users\Taireru\source\repos\MatrixGB\obj\Debug\MatrixGB.Form1.resources
+C:\Users\Taireru\source\repos\MatrixGB\obj\Debug\MatrixGB.Properties.Resources.resources
+C:\Users\Taireru\source\repos\MatrixGB\obj\Debug\MatrixGB.csproj.GenerateResource.cache
+C:\Users\Taireru\source\repos\MatrixGB\obj\Debug\MatrixGB.csproj.CoreCompileInputs.cache
+C:\Users\Taireru\source\repos\MatrixGB\obj\Debug\MatrixGB.exe
+C:\Users\Taireru\source\repos\MatrixGB\obj\Debug\MatrixGB.pdb
